@@ -1,0 +1,17 @@
+
+
+
+# Langkah 1: buat database di phpmyadmin
+nama database: booking-lapangan
+
+# Langkah 2: import databse ke dalam database booking-lapangan
+
+File: database/booking-lapangan.sql
+
+# Langkah 3: jalankan perintah berikut untuk menjalankan aplikasi
+php artisan serve
+# Langkah 4: buka browser dan akses alamat http://localhost:8000/
+
+# Langkah 5: login dengan username dan password yang telah ditentukan akses alamat http://localhost:8000/admin
+username: admin@gmail.com
+password: admin123
