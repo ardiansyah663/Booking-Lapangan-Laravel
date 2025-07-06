@@ -25,7 +25,7 @@ WORKDIR /var/www
 RUN composer install --no-dev --optimize-autoloader
 
 # Generate app key
-RUN php artisan key:generate
+# RUN php artisan key:generate
 
 # Expose port
 EXPOSE 8000
