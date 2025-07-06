@@ -183,6 +183,7 @@ php artisan serve
 <div align="center">
   <img src=".github/images/dashboard.png" alt="Dashboard" width="48%" />
   <img src=".github/images/booking-form.png" alt="Booking Form" width="48%" />
+  <img src=".github/images/admin.png" alt="Booking Form" width="48%" />
 </div>
 ---
 
