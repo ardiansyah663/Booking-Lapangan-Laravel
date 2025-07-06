@@ -72,7 +72,7 @@
 
 ### Prasyarat
 Pastikan Anda telah menginstal:
-- PHP >= 8.0
+- PHP >= 8.1
 - Composer
 - MySQL/MariaDB
 - Node.js & NPM (opsional)
@@ -134,7 +134,7 @@ php artisan serve
 | Role | Email | Password |
 |------|--------|----------|
 | **Admin** | admin@gmail.com | admin123 |
-| **User** | user@gmail.com | user123 |
+
 
 ---
 
