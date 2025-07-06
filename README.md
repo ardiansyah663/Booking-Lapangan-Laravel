@@ -211,9 +211,9 @@ Kami sangat menghargai kontribusi dari komunitas! Berikut cara untuk berkontribu
 
 Butuh bantuan? Jangan ragu untuk menghubungi kami:
 
-- 📧 **Email**: support@bookinglapangan.com
+- 📧 **Email**: diansiahaan663@gmail.com.com
 - 💬 **Discord**: [Join our community](https://discord.gg/bookinglapangan)
-- 📱 **WhatsApp**: +62 812-3456-7890
+- 📱 **WhatsApp**: +62 878-6160-8686
 - 🐛 **Issues**: [GitHub Issues](https://github.com/username/booking-lapangan/issues)
 
 ---
